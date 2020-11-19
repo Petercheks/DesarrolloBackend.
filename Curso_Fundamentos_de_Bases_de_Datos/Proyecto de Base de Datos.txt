@@ -1,0 +1,41 @@
+Proyecto de Base de Datos
+
+PlatziBlog
+
+Entidades :
+
+Post
+Usuarios
+Comentarios
+Categorias
+Etiquetas
+
+Atributos:
+
+Post = [titulo, fecha_publicacion, contenido, estatus, (etiquetas), id]
+Usuarios = [login, password, nickname, email, id]
+Comentarios = [contenido, id]
+Categorias = [nombre_categoria, id]
+
+
+
+
+Futbol 
+
+Entidades:
+
+Ligas
+Equipos
+Estadisticas_Equipos
+Jugadores
+Estadisticas_Jugadores
+
+Atributos:
+
+Ligas = [ID, Pais, Nombre_Liga, Inicio, Fin]
+Equipos = [ID, Nombre_Equipo, Estadisticas_Equipos]
+Estadisticas_Equipos = [ID, Puntos, victorias, derrotas, empates]
+Jugadores = [ID, Nombre_Jugador, edad, nacionalidad, posicion, Estadisticas_Jugadores]
+Estadisticas_Jugadores = [ID, Goles, tarjetas_amarillas, tarjetas_rojas, partidos_jugados]
+
+

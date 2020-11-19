@@ -1,0 +1,12 @@
+Las entidades (objetos) se encierran en Rectangulos
+Los atributos (Que forman el objeto) se encierran en ovalos, los atributos que sean multiple se encierran en doble circulo
+los atributos compuestos son aquellos que se componen de otros atributos
+
+Los atributos llaves son para identificar las entidades(son como los ID)
+
+Existen entidades Fuertes y entidades Debiles, las entidades debiles son aquellas dependientes de una entidad Fuerte
+Ejmpl Entidad Fuerte = Libros
+	Entidad debil = Ediciones
+
+
+
